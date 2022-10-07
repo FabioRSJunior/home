@@ -4,16 +4,16 @@ Meu nome é Fabio Romero de Souza Junior, sou estudante do último período de E
 
 Aqui você pode encontrar alguns dos meus projetos: 
 
-Front 
+### Front-end 
 
-React + JavaScript + node : <a href="https://github.com/FabioRSJunior/TecnologiasWebMobile">Sistema de exibição de Promoções</a>
+React + JavaScript + node : <a href="https://github.com/FabioRSJunior/TecnologiasWebMobile">Sistema de exibição de Promoções</a> <br>
 Angular                   : <a href="https://github.com/FabioRSJunior/Angular-Estudos">Caderno de laboratório</a>
   
-Back 
+### Back-end
 
 Docker + kubernetes + Flask : <a href="url">Sistema de vendas de passagens areas</a> 
 
-Pesquisa: 
+### Pesquisa: 
 
 Python + Arduino + OpenCV : <a href="https://github.com/FabioRSJunior/Controle_Trafego_Smart_Cities_2018">Semaforo com visão computacional</a>
 
