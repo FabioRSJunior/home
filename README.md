@@ -11,7 +11,7 @@ Angular                   : <a href="https://github.com/FabioRSJunior/Angular-Es
   
 ### Back-end
 
-Docker + kubernetes + Flask + MySQL:   <a href="url">Sistema de vendas de passagens areas</a> 
+Docker + kubernetes + Flask + MySQL:   <a href="url">Sistema de vendas de passagens areas</a> <br>
 Docker + kubernetes + Flask + sqlite:  <a href="url">Sistema de vendas de passagens areas</a> 
 ### Pesquisa: 
 
