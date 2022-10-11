@@ -6,7 +6,7 @@ Aqui você pode encontrar alguns dos meus projetos:
 
 ### Front-end 
 
-React + JavaScript + node : <a href="https://github.com/FabioRSJunior/TecnologiasWebMobile">Sistema de exibição de Promoções</a> <br>
+React + JavaScript + node : <a href="https://github.com/FabioRSJunior/TecnologiasWebMobile">Sistema para exibição de Promoções</a> <br>
 Angular                   : <a href="https://github.com/FabioRSJunior/Angular-Estudos">Caderno de laboratório</a>
   
 ### Back-end
