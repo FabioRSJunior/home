@@ -11,8 +11,8 @@ Angular                   : <a href="https://github.com/FabioRSJunior/Angular-Es
   
 ### Back-end
 
-Docker + kubernetes + Flask + MySQL:   <a href="url">Sistema de vendas de passagens areas</a> <br>
-Docker + kubernetes + Flask + sqlite:  <a href="url">Sistema de vendas de passagens areas</a> 
+Docker + kubernetes + Flask + MySQL:   <a href="url">Sistema de vendas de passagens aereas</a> <br>
+Docker + kubernetes + Flask + sqlite:  <a href="url">Sistema de vendas de passagens aereas</a> 
 ### Pesquisa: 
 
 Python + Arduino + OpenCV : <a href="https://github.com/FabioRSJunior/Controle_Trafego_Smart_Cities_2018">Semaforo com visão computacional</a>
