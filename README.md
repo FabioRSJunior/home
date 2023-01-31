@@ -1,6 +1,8 @@
-# Fabio Romero de Souza Júnior  
+# Fabio Romero de Souza Júnior
 
-Meu nome é Fabio Romero de Souza Junior, sou estudante do último período de Engenharia de Computação na Universidade Federal de Uberlândia
+Ola! Meu nome é Fabio Romero de Souza Junior sou um estudante apaixonado por tecnologia e ciência. Sou graduado em Técnico em Eletrônica pelo CEFET e atualmente estou cursando Engenharia da Computação na Universidade Federal de Uberlândia (UFU).
+
+Como estudante de Engenharia da Computação, tenho procurado por oportunidades de estágio na área de dados, incluindo aquisição de dados e criação de modelos preditivos com inteligência artificial. Além disso, venho desenvolvendo habilidades em Angular para um projeto de extensão universitário, além de aprimorar meus conhecimentos em C++, Python e SQL através de projetos de pesquisa.
 
 ## Atualmente: 
 
@@ -82,6 +84,8 @@ Python + Arduino + OpenCV : <a href="https://github.com/FabioRSJunior/Controle_T
 	
 </div>
 
+<br>
+
 <div style="display: inline_block"><br>
   
   <a href="https://www.linkedin.com/in/fabio-romero-jr-101a44139/" target="_blank">
@@ -119,9 +123,10 @@ Python + Arduino + OpenCV : <a href="https://github.com/FabioRSJunior/Controle_T
   <a href="https://www.instagram.com/fab.iorom/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
          target="_blank">
-  </a>
-  
+  </a>  
 </div>
+
+
 
 <!--
 Imagens legais para seu portfólio
