@@ -2,7 +2,22 @@
 
 Meu nome é Fabio Romero de Souza Junior, sou estudante do último período de Engenharia de Computação na Universidade Federal de Uberlândia
 
-Aqui você pode encontrar alguns dos meus projetos: 
+## Atualmente estou: 
+
+Participando: 
+<a href="https://www.xpeducacao.com.br/graduacao/ciencia-de-dados">Minicamp da graduação em ciencia de dados na XPe </a> <br>
+Atividades do programa ->
+<a href="https://github.com/FabioRSJunior/XPE-Minicamp">Projetos</a>
+
+<br>
+
+Participando: 
+<a href="https://www.xpeducacao.com.br/bootcamp/engenheiro-de-machine-learning">BootCamp Engenheiro(a) de Machine Learning na XPe </a> <br>
+Atividades do programa -> 
+<a href="https://github.com/FabioRSJunior/XPE---BootCamp---Engenheiro-a-de-Machine-Learning">Projetos</a>
+
+
+# Aqui você pode encontrar alguns dos meus projetos: 
 
 ### Front-end 
 
