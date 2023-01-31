@@ -9,8 +9,6 @@ Participando:
 Atividades do programa ->
 <a href="https://github.com/FabioRSJunior/XPE-Minicamp">Projetos</a>
 
-<br>
-
 Participando: 
 <a href="https://www.xpeducacao.com.br/bootcamp/engenheiro-de-machine-learning">BootCamp Engenheiro(a) de Machine Learning na XPe </a> <br>
 Atividades do programa -> 
