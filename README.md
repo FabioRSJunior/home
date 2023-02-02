@@ -1,8 +1,8 @@
 # Fabio Romero de Souza Júnior
 
-Ola! Meu nome é Fabio Romero de Souza Junior sou um estudante apaixonado por tecnologia e ciência. Sou graduado em Técnico em Eletrônica pelo CEFET e atualmente estou cursando Engenharia da Computação na Universidade Federal de Uberlândia (UFU).
+Ola! Meu nome é Fabio Romero de Souza Junior sou um estudante apaixonado por tecnologia e ciência. Sou graduado em Técnico em Eletrônica pelo CEFET e atualmente estou cursando Engenharia de Computação na Universidade Federal de Uberlândia (UFU).
 
-Como estudante de Engenharia da Computação, tenho procurado por oportunidades de estágio na área de dados, incluindo aquisição de dados e criação de modelos preditivos com inteligência artificial. Além disso, venho desenvolvendo habilidades em Angular para um projeto de extensão universitária, além de aprimorar meus conhecimentos em C++, Python e SQL através de projetos de pesquisa.
+Como estudante de Engenharia de Computação, tenho procurado por oportunidades de estágio na área de dados, incluindo aquisição de dados e criação de modelos preditivos com inteligência artificial. Além disso, venho desenvolvendo habilidades em Angular para um projeto de extensão universitária, além de aprimorar meus conhecimentos em C++, Python e SQL através de projetos de pesquisa.
 
 ## Atualmente: 
 
