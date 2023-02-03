@@ -86,7 +86,7 @@ Python + Arduino + OpenCV : <a href="https://github.com/FabioRSJunior/Controle_T
 
 <br>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   
   <a href="https://www.linkedin.com/in/fabio-romero-jr-101a44139/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
