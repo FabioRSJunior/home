@@ -1,8 +1,22 @@
+
+
 # Fabio Romero de Souza Júnior
 
 Ola! Meu nome é Fabio Romero de Souza Junior sou um estudante apaixonado por tecnologia e ciência. Sou graduado em Técnico em Eletrônica pelo CEFET e atualmente estou cursando Engenharia de Computação na Universidade Federal de Uberlândia (UFU).
 
 Como estudante de Engenharia de Computação, tenho procurado por oportunidades de estágio na área de dados, incluindo aquisição de dados e criação de modelos preditivos com inteligência artificial. Além disso, venho desenvolvendo habilidades em Angular para um projeto de extensão universitária, além de aprimorar meus conhecimentos em C++, Python e SQL através de projetos de pesquisa.
+
+
+## Stack:
+
+<div align="center">
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
+</div>
 
 ## Atualmente: 
 
@@ -133,6 +147,7 @@ Imagens legais para seu portfólio
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 Gerador de tecnologias para seu portfólio
 https://marwin1991.github.io/profile-technology-icons/ 
--->
+
 
 <a href="01-projects.html">Projetos - Em construção - </a>
+-->
