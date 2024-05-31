@@ -1,11 +1,11 @@
 
-
 # Fabio Romero de Souza Júnior
 
-Ola! Meu nome é Fabio Romero de Souza Junior sou um estudante apaixonado por tecnologia e ciência. Sou graduado em Técnico em Eletrônica pelo CEFET e atualmente estou cursando Engenharia de Computação na Universidade Federal de Uberlândia (UFU).
+Sou um profissional dedicado e apaixonado por desenvolvimento de software e inteligência artificial. Atualmente, estou cursando MBA em Data Science e Analytics pela USP/Esalq e mestrado em Engenharia Elétrica com foco em Processamento Digital de Sinais e Redes de Comunicação pela Universidade Federal de Uberlândia (UFU). Tenho uma graduação em Engenharia de Computação pela UFU e formação técnica em Eletrônica pelo Centro Federal de Educação Tecnológica de Minas Gerais.
 
-Como estudante de Engenharia de Computação, tenho procurado por oportunidades de estágio na área de dados, incluindo aquisição de dados e criação de modelos preditivos com inteligência artificial. Além disso, venho desenvolvendo habilidades em Angular para um projeto de extensão universitária, além de aprimorar meus conhecimentos em C++, Python e SQL através de projetos de pesquisa.
+Minha experiência profissional inclui o cargo de Pesquisador/Programador no Laboratório de Redes Inteligentes (LRI-ufu), onde desenvolvi e mantive aplicações com tecnologias como C#, Git, PostgreSQL, MongoDB, Docker, e Jenkins. Durante meu estágio na UOL Compass, adquiri conhecimentos práticos sobre a plataforma AWS, explorando serviços como Amazon Comprehend, Amazon Kendra, Amazon Lex, Amazon Rekognition, Amazon Polly, e Amazon SageMaker. Tenho vasta experiência em Python, aplicando a linguagem para soluções de visão computacional, automação e análise de dados.
 
+Estou sempre em busca de oportunidades desafiadoras na área de desenvolvimento de software e inteligência artificial, onde possa aplicar meus conhecimentos e contribuir para o avanço tecnológico.
 
 ## Stack:
 
@@ -19,8 +19,9 @@ Como estudante de Engenharia de Computação, tenho procurado por oportunidades 
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 </div>
 
+<!-- 
 ## Atualmente: 
-
+'''
 Participando: 
 <a href="https://www.xpeducacao.com.br/graduacao/ciencia-de-dados">Minicamp da graduação em ciencia de dados na XPe </a> <br>
 Atividades do programa ->
@@ -30,7 +31,8 @@ Participando:
 <a href="https://www.xpeducacao.com.br/bootcamp/engenheiro-de-machine-learning">BootCamp Engenheiro(a) de Machine Learning na XPe </a> <br>
 Atividades do programa -> 
 <a href="https://github.com/FabioRSJunior/XPE---BootCamp---Engenheiro-a-de-Machine-Learning">Projetos</a>
-
+'''
+-->
 
 ## Portfólio: 
 
