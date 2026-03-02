@@ -12,7 +12,20 @@
 </head>
 <body class="bg-slate-900 text-slate-300 antialiased selection:bg-teal-300 selection:text-slate-900">
 
-    <header class="min-h-screen flex flex-col justify-center items-center text-center px-4 sm:px-6 lg:px-8">
+    <nav class="fixed w-full z-50 bg-slate-900/90 backdrop-blur-md border-b border-slate-800">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex-shrink-0 font-bold text-xl text-slate-100 tracking-tight">
+                    FR<span class="text-teal-400">.</span>
+                </div>
+                <div class="flex space-x-6">
+                    <a href="projetos.html" class="text-sm font-medium text-slate-300 hover:text-teal-400 transition-colors">Projetos</a>
+                    </div>
+            </div>
+        </div>
+    </nav>
+
+    <header class="min-h-screen flex flex-col justify-center items-center text-center px-4 sm:px-6 lg:px-8 pt-16">
         <div class="max-w-3xl">
             <h1 class="text-5xl sm:text-7xl font-bold text-slate-100 tracking-tight mb-4">
                 Fabio Romero
@@ -65,6 +78,13 @@
                     <a href="#" class="text-sm font-medium text-teal-400 hover:text-teal-300">Visualizar Código no GitHub →</a>
                 </div>
             </div>
+        </div>
+
+        <div class="mt-12 text-center">
+            <a href="projetos.html" class="inline-flex items-center justify-center px-6 py-3 bg-teal-500/10 text-teal-400 font-semibold rounded-lg hover:bg-teal-500/20 transition-colors border border-teal-500/30">
+                Ver todos os projetos
+                <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+            </a>
         </div>
     </section>
 
